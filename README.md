@@ -16,13 +16,10 @@ A premium, modern, and responsive Blog Application built for the CA Monk Fronten
 - **CRUD Operations**:
   - **Create**: Write new stories with a rich editor experience (Live Preview included).
   - **Read**: Browse blogs with sorting (Latest, Oldest, A-Z) and category filtering.
-  - **Update**: Edit existing stories with pre-filled data.
-  - **Delete**: (Mocked functionality supported by UI).
 - **Search & Filter**: Real-time search in Navbar and Mobile Menu.
 - **Interactive Reading**:
   - **Text-to-Speech**: Listen to blog posts with a single click.
   - **Reading Progress**: Visual progress bar at the top of the article.
-  - **Social**: Like buttons, Copy Link, and Share actions.
 
 ### 🛠 Tech Stack
 - **Core**: React 18, TypeScript, Vite
@@ -100,7 +97,6 @@ This project successfully fulfills all assignment requirements and adds bonus fe
 - [x] **TanStack Query**: Used for caching, optimistic updates, and background refetching.
 - [x] **Tailwind CSS**: Custom configuration, dark mode, and utility-first styling.
 - [x] **Bonus**:
-    - [x] **Edit Functionality**: `/edit/:id` route implemented.
     - [x] **Theme Toggle**: Light/Dark/System support.
     - [x] **Accessibility**: Screen reader friendly, accessible form controls.
     - [x] **Validation**: Manual validation for valid URLs and required fields.
