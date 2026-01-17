@@ -3,6 +3,8 @@
 ![Project Badge](https://img.shields.io/badge/Status-Completed-success) ![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Tailwind%20%7C%20TanStack%20Query-blue)
 
 A premium, modern, and responsive Blog Application built for the CA Monk Frontend Interview assignment. This project demonstrates advanced mastery of React, state management, and modern UI/UX design principles.
+<img width="1907" height="893" alt="image" src="https://github.com/user-attachments/assets/160cd6fc-e669-4212-9f67-235f3855d2a6" />
+
 
 ## 🌟 Key Features
 
